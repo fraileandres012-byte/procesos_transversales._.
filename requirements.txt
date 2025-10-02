@@ -1,0 +1,6 @@
+streamlit1.38.0
+pandas2.2.2
+plotly5.24.1
+numpy1.26.4
+networkx3.3
+
